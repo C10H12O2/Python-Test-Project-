@@ -9,7 +9,7 @@ This repository contains Python scripts that generate geometric patterns using l
 ### 💓 Heart (For loop)
 <img width="115" height="137" alt="image" src="https://github.com/user-attachments/assets/c68bcf60-9131-4ece-9335-45e0396842b9" />
 
-### 🔻 Inerted Triangle (While loop)
+### 🔻 Inverted Triangle (While loop)
 <img width="76" height="72" alt="image" src="https://github.com/user-attachments/assets/d2358d58-ccb2-4973-9a73-2e00bb5bd678" />
 
 ### 🔳 Hollow square (while loop)
@@ -20,6 +20,7 @@ This repository contains Python scripts that generate geometric patterns using l
 
 ### 💎 Diamond (For loop)
 <img width="126" height="148" alt="image" src="https://github.com/user-attachments/assets/40c8ab34-69ab-4161-87f6-91239202a262" />
+
 
 
 
